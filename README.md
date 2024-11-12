@@ -20,4 +20,12 @@
 |  |
 | ------- |
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/ashutoshmishra4208/leetcode/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
+## Linked List
+|  |
+| ------- |
+| [0908-middle-of-the-linked-list](https://github.com/ashutoshmishra4208/leetcode/tree/master/0908-middle-of-the-linked-list) |
+## Two Pointers
+|  |
+| ------- |
+| [0908-middle-of-the-linked-list](https://github.com/ashutoshmishra4208/leetcode/tree/master/0908-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
