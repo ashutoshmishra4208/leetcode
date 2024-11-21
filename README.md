@@ -33,4 +33,16 @@
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/ashutoshmishra4208/leetcode/tree/master/0206-reverse-linked-list) |
+## Math
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/ashutoshmishra4208/leetcode/tree/master/0062-unique-paths) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/ashutoshmishra4208/leetcode/tree/master/0062-unique-paths) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/ashutoshmishra4208/leetcode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
