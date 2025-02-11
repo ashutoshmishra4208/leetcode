@@ -56,6 +56,7 @@
 | [0110-balanced-binary-tree](https://github.com/ashutoshmishra4208/leetcode/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/ashutoshmishra4208/leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/ashutoshmishra4208/leetcode/tree/master/0226-invert-binary-tree) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ashutoshmishra4208/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/ashutoshmishra4208/leetcode/tree/master/0784-insert-into-a-binary-search-tree) |
 ## Depth-First Search
 |  |
@@ -64,6 +65,7 @@
 | [0110-balanced-binary-tree](https://github.com/ashutoshmishra4208/leetcode/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/ashutoshmishra4208/leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/ashutoshmishra4208/leetcode/tree/master/0226-invert-binary-tree) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ashutoshmishra4208/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -79,6 +81,7 @@
 | [0110-balanced-binary-tree](https://github.com/ashutoshmishra4208/leetcode/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/ashutoshmishra4208/leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/ashutoshmishra4208/leetcode/tree/master/0226-invert-binary-tree) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ashutoshmishra4208/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/ashutoshmishra4208/leetcode/tree/master/0784-insert-into-a-binary-search-tree) |
 ## Binary Search Tree
 |  |
