@@ -6,11 +6,13 @@
 | ------- |
 | [0001-two-sum](https://github.com/ashutoshmishra4208/leetcode/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/ashutoshmishra4208/leetcode/tree/master/0169-majority-element) |
+| [0387-first-unique-character-in-a-string](https://github.com/ashutoshmishra4208/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0782-jewels-and-stones](https://github.com/ashutoshmishra4208/leetcode/tree/master/0782-jewels-and-stones) |
 ## String
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/ashutoshmishra4208/leetcode/tree/master/0344-reverse-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/ashutoshmishra4208/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0782-jewels-and-stones](https://github.com/ashutoshmishra4208/leetcode/tree/master/0782-jewels-and-stones) |
 ## Array
 |  |
@@ -128,4 +130,9 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/ashutoshmishra4208/leetcode/tree/master/0169-majority-element) |
+| [0387-first-unique-character-in-a-string](https://github.com/ashutoshmishra4208/leetcode/tree/master/0387-first-unique-character-in-a-string) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/ashutoshmishra4208/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
