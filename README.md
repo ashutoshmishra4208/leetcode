@@ -25,6 +25,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/ashutoshmishra4208/leetcode/tree/master/0002-add-two-numbers) |
 | [0206-reverse-linked-list](https://github.com/ashutoshmishra4208/leetcode/tree/master/0206-reverse-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/ashutoshmishra4208/leetcode/tree/master/0908-middle-of-the-linked-list) |
 ## Two Pointers
@@ -35,10 +36,12 @@
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/ashutoshmishra4208/leetcode/tree/master/0002-add-two-numbers) |
 | [0206-reverse-linked-list](https://github.com/ashutoshmishra4208/leetcode/tree/master/0206-reverse-linked-list) |
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/ashutoshmishra4208/leetcode/tree/master/0002-add-two-numbers) |
 | [0062-unique-paths](https://github.com/ashutoshmishra4208/leetcode/tree/master/0062-unique-paths) |
 ## Dynamic Programming
 |  |
