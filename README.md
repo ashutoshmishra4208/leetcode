@@ -14,6 +14,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ashutoshmishra4208/leetcode/tree/master/0001-two-sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/ashutoshmishra4208/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/ashutoshmishra4208/leetcode/tree/master/0088-merge-sorted-array) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/ashutoshmishra4208/leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/ashutoshmishra4208/leetcode/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
@@ -31,6 +32,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/ashutoshmishra4208/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/ashutoshmishra4208/leetcode/tree/master/0088-merge-sorted-array) |
 | [0908-middle-of-the-linked-list](https://github.com/ashutoshmishra4208/leetcode/tree/master/0908-middle-of-the-linked-list) |
 ## Recursion
