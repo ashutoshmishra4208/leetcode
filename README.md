@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ashutoshmishra4208/leetcode/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/ashutoshmishra4208/leetcode/tree/master/0169-majority-element) |
 | [0782-jewels-and-stones](https://github.com/ashutoshmishra4208/leetcode/tree/master/0782-jewels-and-stones) |
 ## String
 |  |
@@ -19,12 +20,14 @@
 | [0055-jump-game](https://github.com/ashutoshmishra4208/leetcode/tree/master/0055-jump-game) |
 | [0088-merge-sorted-array](https://github.com/ashutoshmishra4208/leetcode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ashutoshmishra4208/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0169-majority-element](https://github.com/ashutoshmishra4208/leetcode/tree/master/0169-majority-element) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/ashutoshmishra4208/leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/ashutoshmishra4208/leetcode/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
 ## Sorting
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/ashutoshmishra4208/leetcode/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/ashutoshmishra4208/leetcode/tree/master/0169-majority-element) |
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/ashutoshmishra4208/leetcode/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
 ## Linked List
 |  |
@@ -113,4 +116,12 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/ashutoshmishra4208/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/ashutoshmishra4208/leetcode/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/ashutoshmishra4208/leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
