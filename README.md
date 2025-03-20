@@ -147,4 +147,8 @@
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/ashutoshmishra4208/leetcode/tree/master/1013-fibonacci-number) |
+## Enumeration
+|  |
+| ------- |
+| [1212-sequential-digits](https://github.com/ashutoshmishra4208/leetcode/tree/master/1212-sequential-digits) |
 <!---LeetCode Topics End-->
