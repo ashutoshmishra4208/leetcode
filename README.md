@@ -63,6 +63,7 @@
 | [0009-palindrome-number](https://github.com/ashutoshmishra4208/leetcode/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/ashutoshmishra4208/leetcode/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/ashutoshmishra4208/leetcode/tree/master/0062-unique-paths) |
+| [0371-sum-of-two-integers](https://github.com/ashutoshmishra4208/leetcode/tree/master/0371-sum-of-two-integers) |
 | [1013-fibonacci-number](https://github.com/ashutoshmishra4208/leetcode/tree/master/1013-fibonacci-number) |
 ## Dynamic Programming
 |  |
@@ -153,4 +154,8 @@
 |  |
 | ------- |
 | [1212-sequential-digits](https://github.com/ashutoshmishra4208/leetcode/tree/master/1212-sequential-digits) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0371-sum-of-two-integers](https://github.com/ashutoshmishra4208/leetcode/tree/master/0371-sum-of-two-integers) |
 <!---LeetCode Topics End-->
