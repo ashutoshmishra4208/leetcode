@@ -20,6 +20,7 @@
 | [0001-two-sum](https://github.com/ashutoshmishra4208/leetcode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ashutoshmishra4208/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/ashutoshmishra4208/leetcode/tree/master/0027-remove-element) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ashutoshmishra4208/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/ashutoshmishra4208/leetcode/tree/master/0035-search-insert-position) |
 | [0055-jump-game](https://github.com/ashutoshmishra4208/leetcode/tree/master/0055-jump-game) |
 | [0088-merge-sorted-array](https://github.com/ashutoshmishra4208/leetcode/tree/master/0088-merge-sorted-array) |
@@ -122,6 +123,7 @@
 ## Binary Search Tree
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ashutoshmishra4208/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/ashutoshmishra4208/leetcode/tree/master/0035-search-insert-position) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/ashutoshmishra4208/leetcode/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/ashutoshmishra4208/leetcode/tree/master/0799-minimum-distance-between-bst-nodes) |
