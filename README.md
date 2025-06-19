@@ -14,6 +14,7 @@
 | [0344-reverse-string](https://github.com/ashutoshmishra4208/leetcode/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/ashutoshmishra4208/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0782-jewels-and-stones](https://github.com/ashutoshmishra4208/leetcode/tree/master/0782-jewels-and-stones) |
+| [1250-longest-common-subsequence](https://github.com/ashutoshmishra4208/leetcode/tree/master/1250-longest-common-subsequence) |
 ## Array
 |  |
 | ------- |
@@ -75,6 +76,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ashutoshmishra4208/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/ashutoshmishra4208/leetcode/tree/master/0198-house-robber) |
 | [1013-fibonacci-number](https://github.com/ashutoshmishra4208/leetcode/tree/master/1013-fibonacci-number) |
+| [1250-longest-common-subsequence](https://github.com/ashutoshmishra4208/leetcode/tree/master/1250-longest-common-subsequence) |
 ## Combinatorics
 |  |
 | ------- |
