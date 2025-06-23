@@ -8,6 +8,7 @@
 | [0169-majority-element](https://github.com/ashutoshmishra4208/leetcode/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/ashutoshmishra4208/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0782-jewels-and-stones](https://github.com/ashutoshmishra4208/leetcode/tree/master/0782-jewels-and-stones) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/ashutoshmishra4208/leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 ## String
 |  |
 | ------- |
@@ -31,6 +32,7 @@
 | [0198-house-robber](https://github.com/ashutoshmishra4208/leetcode/tree/master/0198-house-robber) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/ashutoshmishra4208/leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/ashutoshmishra4208/leetcode/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/ashutoshmishra4208/leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Sorting
 |  |
 | ------- |
@@ -148,6 +150,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/ashutoshmishra4208/leetcode/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/ashutoshmishra4208/leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/ashutoshmishra4208/leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Queue
 |  |
 | ------- |
