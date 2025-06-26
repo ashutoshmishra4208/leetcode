@@ -24,6 +24,7 @@
 | [0027-remove-element](https://github.com/ashutoshmishra4208/leetcode/tree/master/0027-remove-element) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ashutoshmishra4208/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/ashutoshmishra4208/leetcode/tree/master/0035-search-insert-position) |
+| [0042-trapping-rain-water](https://github.com/ashutoshmishra4208/leetcode/tree/master/0042-trapping-rain-water) |
 | [0055-jump-game](https://github.com/ashutoshmishra4208/leetcode/tree/master/0055-jump-game) |
 | [0088-merge-sorted-array](https://github.com/ashutoshmishra4208/leetcode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ashutoshmishra4208/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -51,6 +52,7 @@
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ashutoshmishra4208/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/ashutoshmishra4208/leetcode/tree/master/0027-remove-element) |
+| [0042-trapping-rain-water](https://github.com/ashutoshmishra4208/leetcode/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/ashutoshmishra4208/leetcode/tree/master/0088-merge-sorted-array) |
 | [0344-reverse-string](https://github.com/ashutoshmishra4208/leetcode/tree/master/0344-reverse-string) |
 | [0908-middle-of-the-linked-list](https://github.com/ashutoshmishra4208/leetcode/tree/master/0908-middle-of-the-linked-list) |
@@ -74,6 +76,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/ashutoshmishra4208/leetcode/tree/master/0042-trapping-rain-water) |
 | [0055-jump-game](https://github.com/ashutoshmishra4208/leetcode/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/ashutoshmishra4208/leetcode/tree/master/0062-unique-paths) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ashutoshmishra4208/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -141,6 +144,7 @@
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/ashutoshmishra4208/leetcode/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/ashutoshmishra4208/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 ## Divide and Conquer
 |  |
@@ -169,4 +173,8 @@
 | ------- |
 | [0371-sum-of-two-integers](https://github.com/ashutoshmishra4208/leetcode/tree/master/0371-sum-of-two-integers) |
 | [0461-hamming-distance](https://github.com/ashutoshmishra4208/leetcode/tree/master/0461-hamming-distance) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/ashutoshmishra4208/leetcode/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
