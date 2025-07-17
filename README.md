@@ -35,6 +35,7 @@
 | [0198-house-robber](https://github.com/ashutoshmishra4208/leetcode/tree/master/0198-house-robber) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/ashutoshmishra4208/leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/ashutoshmishra4208/leetcode/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
+| [1802-number-of-students-unable-to-eat-lunch](https://github.com/ashutoshmishra4208/leetcode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/ashutoshmishra4208/leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Sorting
 |  |
@@ -153,6 +154,7 @@
 | [0042-trapping-rain-water](https://github.com/ashutoshmishra4208/leetcode/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/ashutoshmishra4208/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0232-implement-queue-using-stacks](https://github.com/ashutoshmishra4208/leetcode/tree/master/0232-implement-queue-using-stacks) |
+| [1802-number-of-students-unable-to-eat-lunch](https://github.com/ashutoshmishra4208/leetcode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -168,6 +170,7 @@
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/ashutoshmishra4208/leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0387-first-unique-character-in-a-string](https://github.com/ashutoshmishra4208/leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [1802-number-of-students-unable-to-eat-lunch](https://github.com/ashutoshmishra4208/leetcode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 ## Memoization
 |  |
 | ------- |
@@ -189,4 +192,8 @@
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/ashutoshmishra4208/leetcode/tree/master/0232-implement-queue-using-stacks) |
+## Simulation
+|  |
+| ------- |
+| [1802-number-of-students-unable-to-eat-lunch](https://github.com/ashutoshmishra4208/leetcode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 <!---LeetCode Topics End-->
