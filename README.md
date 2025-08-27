@@ -27,6 +27,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ashutoshmishra4208/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/ashutoshmishra4208/leetcode/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/ashutoshmishra4208/leetcode/tree/master/0042-trapping-rain-water) |
+| [0048-rotate-image](https://github.com/ashutoshmishra4208/leetcode/tree/master/0048-rotate-image) |
 | [0055-jump-game](https://github.com/ashutoshmishra4208/leetcode/tree/master/0055-jump-game) |
 | [0088-merge-sorted-array](https://github.com/ashutoshmishra4208/leetcode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ashutoshmishra4208/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -76,6 +77,7 @@
 | [0002-add-two-numbers](https://github.com/ashutoshmishra4208/leetcode/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/ashutoshmishra4208/leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/ashutoshmishra4208/leetcode/tree/master/0009-palindrome-number) |
+| [0048-rotate-image](https://github.com/ashutoshmishra4208/leetcode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/ashutoshmishra4208/leetcode/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/ashutoshmishra4208/leetcode/tree/master/0062-unique-paths) |
 | [0371-sum-of-two-integers](https://github.com/ashutoshmishra4208/leetcode/tree/master/0371-sum-of-two-integers) |
@@ -196,4 +198,8 @@
 |  |
 | ------- |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/ashutoshmishra4208/leetcode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/ashutoshmishra4208/leetcode/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
