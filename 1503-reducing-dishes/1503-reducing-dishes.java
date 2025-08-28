@@ -1,17 +1,14 @@
 class Solution {
     public int maxSatisfaction(int[] satisfaction) {
         Arrays.sort(satisfaction);
-        int max=0;
-        int n = satisfaction.length;
-        for(int i=0;i<n;i++){
-            int sum = 0;
-            int time = 1;
-            for(int j=i; j<n; j++){
-                sum += time*satisfaction[j];
-                time++;
-                max = Math.max(max,sum);
-            }
+        int ans=0;
+        int sum=0;
+        int n=satisfaction.length;
+        for(int i=n-1; i>=0; i--){
+            sum+=satisfaction[i];
+            if(sum<0)break;
+            ans+=sum;
         }
-        return max;
+        return ans;
     }
 }
