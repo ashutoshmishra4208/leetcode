@@ -18,6 +18,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/ashutoshmishra4208/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0782-jewels-and-stones](https://github.com/ashutoshmishra4208/leetcode/tree/master/0782-jewels-and-stones) |
 | [1250-longest-common-subsequence](https://github.com/ashutoshmishra4208/leetcode/tree/master/1250-longest-common-subsequence) |
+| [1894-merge-strings-alternately](https://github.com/ashutoshmishra4208/leetcode/tree/master/1894-merge-strings-alternately) |
 ## Array
 |  |
 | ------- |
@@ -64,6 +65,7 @@
 | [0160-intersection-of-two-linked-lists](https://github.com/ashutoshmishra4208/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0344-reverse-string](https://github.com/ashutoshmishra4208/leetcode/tree/master/0344-reverse-string) |
 | [0908-middle-of-the-linked-list](https://github.com/ashutoshmishra4208/leetcode/tree/master/0908-middle-of-the-linked-list) |
+| [1894-merge-strings-alternately](https://github.com/ashutoshmishra4208/leetcode/tree/master/1894-merge-strings-alternately) |
 ## Recursion
 |  |
 | ------- |
