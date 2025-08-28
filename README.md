@@ -35,6 +35,7 @@
 | [0162-find-peak-element](https://github.com/ashutoshmishra4208/leetcode/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/ashutoshmishra4208/leetcode/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/ashutoshmishra4208/leetcode/tree/master/0198-house-robber) |
+| [1503-reducing-dishes](https://github.com/ashutoshmishra4208/leetcode/tree/master/1503-reducing-dishes) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/ashutoshmishra4208/leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/ashutoshmishra4208/leetcode/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/ashutoshmishra4208/leetcode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
@@ -44,6 +45,7 @@
 | ------- |
 | [0088-merge-sorted-array](https://github.com/ashutoshmishra4208/leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/ashutoshmishra4208/leetcode/tree/master/0169-majority-element) |
+| [1503-reducing-dishes](https://github.com/ashutoshmishra4208/leetcode/tree/master/1503-reducing-dishes) |
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/ashutoshmishra4208/leetcode/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
 ## Linked List
 |  |
@@ -94,6 +96,7 @@
 | [0198-house-robber](https://github.com/ashutoshmishra4208/leetcode/tree/master/0198-house-robber) |
 | [1013-fibonacci-number](https://github.com/ashutoshmishra4208/leetcode/tree/master/1013-fibonacci-number) |
 | [1250-longest-common-subsequence](https://github.com/ashutoshmishra4208/leetcode/tree/master/1250-longest-common-subsequence) |
+| [1503-reducing-dishes](https://github.com/ashutoshmishra4208/leetcode/tree/master/1503-reducing-dishes) |
 ## Combinatorics
 |  |
 | ------- |
@@ -152,6 +155,7 @@
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/ashutoshmishra4208/leetcode/tree/master/0055-jump-game) |
+| [1503-reducing-dishes](https://github.com/ashutoshmishra4208/leetcode/tree/master/1503-reducing-dishes) |
 ## Stack
 |  |
 | ------- |
