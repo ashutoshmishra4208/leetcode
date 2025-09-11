@@ -14,6 +14,7 @@
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/ashutoshmishra4208/leetcode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/ashutoshmishra4208/leetcode/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/ashutoshmishra4208/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0782-jewels-and-stones](https://github.com/ashutoshmishra4208/leetcode/tree/master/0782-jewels-and-stones) |
@@ -63,6 +64,7 @@
 | [0027-remove-element](https://github.com/ashutoshmishra4208/leetcode/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/ashutoshmishra4208/leetcode/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/ashutoshmishra4208/leetcode/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/ashutoshmishra4208/leetcode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/ashutoshmishra4208/leetcode/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/ashutoshmishra4208/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0344-reverse-string](https://github.com/ashutoshmishra4208/leetcode/tree/master/0344-reverse-string) |
