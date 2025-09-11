@@ -213,4 +213,8 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/ashutoshmishra4208/leetcode/tree/master/0048-rotate-image) |
+## Database
+|  |
+| ------- |
+| [0197-rising-temperature](https://github.com/ashutoshmishra4208/leetcode/tree/master/0197-rising-temperature) |
 <!---LeetCode Topics End-->
