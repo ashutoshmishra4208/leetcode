@@ -10,6 +10,7 @@
 | [0169-majority-element](https://github.com/ashutoshmishra4208/leetcode/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/ashutoshmishra4208/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0782-jewels-and-stones](https://github.com/ashutoshmishra4208/leetcode/tree/master/0782-jewels-and-stones) |
+| [1264-maximum-number-of-words-you-can-type](https://github.com/ashutoshmishra4208/leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/ashutoshmishra4208/leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 ## String
 |  |
@@ -19,6 +20,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/ashutoshmishra4208/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0782-jewels-and-stones](https://github.com/ashutoshmishra4208/leetcode/tree/master/0782-jewels-and-stones) |
 | [1250-longest-common-subsequence](https://github.com/ashutoshmishra4208/leetcode/tree/master/1250-longest-common-subsequence) |
+| [1264-maximum-number-of-words-you-can-type](https://github.com/ashutoshmishra4208/leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1894-merge-strings-alternately](https://github.com/ashutoshmishra4208/leetcode/tree/master/1894-merge-strings-alternately) |
 ## Array
 |  |
